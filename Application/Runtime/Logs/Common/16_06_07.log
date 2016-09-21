@@ -1,0 +1,48 @@
+[ 2016-06-07T15:08:19+08:00 ] 127.0.0.1 /index.php/GII
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:GII
+
+[ 2016-06-07T15:32:08+08:00 ] 127.0.0.1 /index.php/Brand/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Brand
+
+[ 2016-06-07T15:37:05+08:00 ] 127.0.0.1 /index.php/Brand/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Brand
+
+[ 2016-06-07T15:57:20+08:00 ] 127.0.0.1 /Public/Uploads/Brand/2015-10-13/561cc92ba6c33.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-07T15:57:27+08:00 ] 127.0.0.1 /Public/Uploads/Brand/2015-10-13/561cc92ba6c33.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-07T19:10:42+08:00 ] 127.0.0.1 /Public/Uploads/Brand/2015-10-13/561cc92ba6c33.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-07T19:27:21+08:00 ] 127.0.0.1 /Public/Uploads/Brand/2015-10-13/561cc92ba6c33.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-07T20:27:50+08:00 ] 127.0.0.1 /Public/Uploads/Brand/2015-10-13/561cc92ba6c33.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+

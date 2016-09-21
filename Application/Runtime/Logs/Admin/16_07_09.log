@@ -1,0 +1,141 @@
+[ 2016-07-09T09:48:15+08:00 ] ::1 /rna/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-07-09T09:48:15+08:00 ] ::1 /rna/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-07-09T09:48:15+08:00 ] ::1 /rna/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2016-07-09T09:48:27+08:00 ] ::1 /rna/index.php/Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2016-07-09T09:48:27+08:00 ] ::1 /rna/index.php/Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2016-07-09T09:48:27+08:00 ] ::1 /rna/index.php/Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2016-07-09T09:48:31+08:00 ] ::1 /rna/index.php/Admin/MemberLevel/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_member_level' doesn't exist
+
+[ 2016-07-09T10:02:14+08:00 ] ::1 /rna/index.php/Admin/Privilege/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:02:15+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:02:16+08:00 ] ::1 /rna/index.php/Admin/Admin/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:03:19+08:00 ] ::1 /rna/index.php/Admin/Privilege/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:03:20+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:03:22+08:00 ] ::1 /rna/index.php/Admin/Admin/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:03:22+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:26+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:32+08:00 ] ::1 /rna/index.php/Admin/Admin/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:32+08:00 ] ::1 /rna/index.php/Admin/Admin/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:33+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:34+08:00 ] ::1 /rna/index.php/Admin/Privilege/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:35+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:36+08:00 ] ::1 /rna/index.php/Admin/Admin/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:39+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:48+08:00 ] ::1 /rna/index.php/Admin/Privilege/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:49+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:51+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:53+08:00 ] ::1 /rna/index.php/Admin/Admin/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:06:54+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:08:37+08:00 ] ::1 /rna/index.php/Admin/Privilege/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:08:38+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:08:39+08:00 ] ::1 /rna/index.php/Admin/Admin/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:08:40+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:08:41+08:00 ] ::1 /rna/index.php/Admin/Role/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_privilege' doesn't exist
+
+[ 2016-07-09T10:10:41+08:00 ] ::1 /rna/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-07-09T10:10:41+08:00 ] ::1 /rna/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2016-07-09T10:10:41+08:00 ] ::1 /rna/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-07-09T10:10:41+08:00 ] ::1 /rna/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-07-09T10:10:41+08:00 ] ::1 /rna/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-07-09T10:10:41+08:00 ] ::1 /rna/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2016-07-09T10:33:33+08:00 ] ::1 /rna/index.php/Admin/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2016-07-09T10:33:42+08:00 ] ::1 /rna/index.php/Admin/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2016-07-09T10:33:43+08:00 ] ::1 /rna/index.php/Admin/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2016-07-09T10:45:16+08:00 ] ::1 /rna/index.php/Admin/Heart/lst.html
+ERR: 无法加载控制器:Heart
+
+[ 2016-07-09T10:45:21+08:00 ] ::1 /rna/index.php/Admin/Heart/lst.html
+ERR: 无法加载控制器:Heart
+
+[ 2016-07-09T10:45:31+08:00 ] ::1 /rna/index.php/Admin/Index/__GROUP__/Index/main
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-09T10:45:42+08:00 ] ::1 /rna/index.php/Admin/Index/__GROUP__/Index/main
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-09T10:50:40+08:00 ] ::1 /rna/index.php/Admin/MemberLevel/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_member_level' doesn't exist
+
+[ 2016-07-09T10:50:43+08:00 ] ::1 /rna/index.php/Admin/MemberLevel/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_member_level' doesn't exist
+

@@ -1,0 +1,63 @@
+[ 2016-07-02T12:30:11+08:00 ] ::1 /rna/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-07-02T12:30:11+08:00 ] ::1 /rna/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-07-02T12:30:15+08:00 ] ::1 /rna/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2016-07-02T12:30:28+08:00 ] ::1 /rna/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-07-02T12:30:28+08:00 ] ::1 /rna/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-07-02T12:30:28+08:00 ] ::1 /rna/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2016-07-02T12:56:58+08:00 ] ::1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-02T12:57:00+08:00 ] ::1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-02T12:57:01+08:00 ] ::1 /RNA/index.php/Admin/Index/__GROUP__/Order/orderList
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-02T12:57:02+08:00 ] ::1 /RNA/index.php/Admin/Index/__GROUP__/Comment/commentList
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-02T12:57:03+08:00 ] ::1 /RNA/index.php/Admin/Index/__GROUP__/User/userList
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-02T13:50:33+08:00 ] ::1 /RNA/index.php/Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2016-07-02T13:50:33+08:00 ] ::1 /RNA/index.php/Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+
+[ 2016-07-02T13:50:33+08:00 ] ::1 /RNA/index.php/Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2016-07-02T13:50:33+08:00 ] ::1 /RNA/index.php/Admin/Index/__GROUP__/Index/main
+ERR: 非法操作:__GROUP__
+
+[ 2016-07-02T16:22:42+08:00 ] ::1 /rna/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-07-02T16:22:42+08:00 ] ::1 /rna/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2016-07-02T16:22:42+08:00 ] ::1 /rna/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-07-02T16:43:41+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/Js/global.js
+ERR: 非法操作:Js
+
+[ 2016-07-02T16:43:41+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/Js/utils.js
+ERR: 非法操作:Js
+
+[ 2016-07-02T16:43:41+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/Js/transport.js
+ERR: 非法操作:Js
+

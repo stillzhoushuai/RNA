@@ -1,0 +1,1886 @@
+[ 2016-06-05T21:07:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.1250s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.1960s ]
+NOTIC: [8] Undefined variable: pageobj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 78 行.
+
+[ 2016-06-05T21:08:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0190s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/layout.html): failed to open stream: No such file or directory D:\xampp\htdocs\www.39.com\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:08:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/layout.html): failed to open stream: No such file or directory D:\xampp\htdocs\www.39.com\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:08:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/layout.html): failed to open stream: No such file or directory D:\xampp\htdocs\www.39.com\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:08:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/layout.html): failed to open stream: No such file or directory D:\xampp\htdocs\www.39.com\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:11:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:15:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 65 行.
+NOTIC: [8] Undefined variable: showPage D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:15:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_search.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:15:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/.Public/Admin/Styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:.Public
+
+[ 2016-06-05T21:15:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/.Public/Admin/Styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:.Public
+
+[ 2016-06-05T21:16:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 65 行.
+NOTIC: [8] Undefined variable: showPage D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:16:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/__Public__/Admin/Styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:__Public__
+
+[ 2016-06-05T21:16:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/__Public__/Admin/Styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:__Public__
+
+[ 2016-06-05T21:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 65 行.
+NOTIC: [8] Undefined variable: showPage D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/__Public__/Admin/Styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:__Public__
+
+[ 2016-06-05T21:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/__Public__/Admin/Styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:__Public__
+
+[ 2016-06-05T21:17:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 65 行.
+NOTIC: [8] Undefined variable: showPage D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:24:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:25:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:25:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:25:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:25:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:25:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 71 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:25:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:25:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:25:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:26:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-06-05T21:26:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:26:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:26:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:26:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:26:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:26:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-06-05T21:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:28:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:30:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:31:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0300s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:31:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:32:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+NOTIC: [8] Undefined variable: pageObj D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:33:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Page could not be converted to string D:\xampp\htdocs\www.39.com\Application\Admin\Model\GoodsModel.class.php 第 81 行.
+SQL: SELECT * FROM `p39_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:34:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:34:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:34:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 10,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:34:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:34:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.175010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.175010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:34:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:38:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:38:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:40:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:40:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:40:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:41:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:41:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:43:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:44:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 22 行.
+NOTIC: [8] Undefined variable: brand_list D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 27 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 72 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:52:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:55:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:55:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:56:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-05T21:56:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html?gn=%E7%BA%A2%E8%89%B2&fp=&tp=&ios=&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:58:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant get - assumed 'get' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Use of undefined constant gn - assumed 'gn' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:58:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=123&fp=&tp=&ios=&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 0,5   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant get - assumed 'get' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Use of undefined constant gn - assumed 'gn' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:58:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/gn/123/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant get - assumed 'get' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Use of undefined constant gn - assumed 'gn' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:58:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/gn/123/p/2.html?gn=123&fp=&tp=&ios=&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant get - assumed 'get' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Use of undefined constant gn - assumed 'gn' D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 20 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-05T21:59:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/gn/123/p/2.html?gn=123&fp=&tp=&ios=&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 68 行.
+NOTIC: [8] Undefined variable: val D:\xampp\htdocs\www.39.com\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

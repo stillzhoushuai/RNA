@@ -1,0 +1,9 @@
+[ 2016-07-05T10:54:49+08:00 ] ::1 /rna/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-07-05T10:54:49+08:00 ] ::1 /rna/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-07-05T10:54:49+08:00 ] ::1 /rna/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
