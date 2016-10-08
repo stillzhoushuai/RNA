@@ -23,13 +23,13 @@
 			组织类型：
 			<select name="tissue_id">
                     	<option value="">请选择:</option>
-                    	<option value="1">Brain_Normal</option>
-                    	<option value="2">Brain_Tumor</option>
+                    	<option value="3">brain_Normal</option>
+                    	<option value="4">brain_Tumor</option>
             </select>
 	</p>
     <p>
 			文章名称：
-			<?php buildSelect('Paper','paper_id','id','paper_name'); ?>
+			<?php buildSelect('Brainpaper','paper_id','id','paper_name'); ?>
 	</p>
 	<p>
 			染色体号：

@@ -18,7 +18,7 @@
 <!-- 内容 -->
 
 <div class="form-div">
-    <form action="/RNA/index.php/Home/Colon/search?tissue_id=6&paper_id=7&chr=&rna_editing_location=&fl=54589236&tl=54590067&fr=&tr=" method="POST" name="searchForm">
+    <form action="/RNA/index.php/Home/Colon/search?tissue_id=6&paper_id=&chr=17&rna_editing_location=17233359&fl=&tl=&fr=&tr=" method="POST" name="searchForm">
     <p>
 			组织类型：
 			<select name="tissue_id">

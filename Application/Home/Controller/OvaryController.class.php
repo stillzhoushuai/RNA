@@ -6,13 +6,13 @@ vendor("Jpgraph.jpgraph");
 vendor("Jpgraph.jpgraph_line");
 vendor("Jpgraph.jpgraph_bar");
 vendor("Jpgraph.jpgraph_error");
-class BrainController extends Controller{
+class OvaryController extends Controller{
        
         function index(){
             $this->assign(array(
-                '_page_title'=>'Brain编辑位点分析',
-                '_page_btn_name1' => 'Brain_variance_GO',
-                '_page_btn_name2' => 'Brain_scatter_GO',
+                '_page_title'=>'Ovary编辑位点分析',
+                '_page_btn_name1' => 'Ovary_variance_GO',
+                '_page_btn_name2' => 'Ovary_scatter_GO',
             ));
            $this->display();
         }

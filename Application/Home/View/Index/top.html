@@ -135,9 +135,12 @@
         <li class="fix-spacel">&nbsp;</li>
         <li><a href="../Colon/index" target="main_frame">结肠</a></li>
         <li><a href="../Brain/index" target="main_frame">大脑</a></li>
-        <li><a href="../Adipose/index" target="main_frame">脂肪</a></li>
-        <li><a href="../Colon/index" target="main_frame">用户评论</a></li>
-        <li><a href="../Colon/index" target="main_frame">会员列表</a></li>
+        <li><a href="../Breast/index" target="main_frame">乳腺</a></li>
+        <li><a href="../Kidney/index" target="main_frame">肾</a></li>
+        <li><a href="../Testes/index" target="main_frame">睾丸</a></li>
+        <li><a href="../Pancreas/index" target="main_frame">胰腺</a></li>
+        <li><a href="../Ovary/index" target="main_frame">卵巢</a></li>
+        <li><a href="../Thyroid/index" target="main_frame">甲状腺</a></li>
         <li class="fix-spacer">&nbsp;</li>
     </ul>
     <br class="clear" />
