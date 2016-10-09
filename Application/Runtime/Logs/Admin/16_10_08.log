@@ -28,3 +28,15 @@ ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_
 [ 2016-10-08T16:39:43+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Adipose/lst.html
 ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_adipose' doesn't exist
 
+[ 2016-10-08T22:18:08+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Adipose/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_adipose' doesn't exist
+
+[ 2016-10-08T22:52:58+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Adipose/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_adipose' doesn't exist
+
+[ 2016-10-08T22:53:18+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Adipose/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_adipose' doesn't exist
+
+[ 2016-10-08T22:53:20+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Adipose/lst.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.rna_adipose' doesn't exist
+

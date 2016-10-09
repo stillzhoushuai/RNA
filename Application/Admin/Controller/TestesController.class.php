@@ -2,7 +2,7 @@
 //命名空间
 namespace Admin\Controller;
 import("ORG.Util.Page");
-class BreastController extends BaseController{
+class TestesController extends BaseController{
 
 	
 	//显示和处理表单
@@ -10,7 +10,7 @@ class BreastController extends BaseController{
 		//判断用户是否提交了表单
 		if(IS_POST){
 			//dump($_POST);die;
-			$model= D('breast');
+			$model= D('testes');
 			//2.CREATE方法：a.接收数据并保存到模型中  b.根据模型中定义的规则验证表单
 			/**
 			 * 第一个参数：要接手的数据默认是$_POST
@@ -32,7 +32,7 @@ class BreastController extends BaseController{
 		}
 		
 		//取出所有的组织类型
-		$tissueModel = D('tissue');
+		$tissueModel = D('testes');
 		$tissueData = $tissueModel -> select();
 		
 		//设置页面信息
@@ -50,7 +50,7 @@ class BreastController extends BaseController{
 	//修改表单
 	public function edit(){
 		$id = I('get.id');   //要修改的商品的ID
-		$model= D('colon');
+		$model= D('testes');
 		if(IS_POST){
 			if($model -> create(I('post.'),2)){
 				if(FALSE !== $model->save()){  //save()的返回值是：如果失败返回受影响的条数【如果修改后和修改前相同就会返回0】
@@ -72,8 +72,8 @@ class BreastController extends BaseController{
 		//设置页面信息
 		$this->assign(array(
 			'tissueData' => $tissueData,
-			'_page_title'  => '修改RNA乳腺癌组织信息',
-			'_page_btn_name' => '乳腺组织列表',
+			'_page_title'  => '修改RNA脂肪组织信息',
+			'_page_btn_name' => '睾丸组织列表',
 			'_page_btn_link'  => U('lst'),
 		
 		));
@@ -81,7 +81,7 @@ class BreastController extends BaseController{
 	}
 	
 	public function delete(){
-		$mode =D('breast');
+		$mode =D('testes');
 		if(FALSE !==$mode->delete(I('get.id')))
 			$this->success('删除成功！',U('lst'));
 		else 
@@ -90,14 +90,14 @@ class BreastController extends BaseController{
 	//商品列表页
 	public function lst(){
 		      //数据查询操作
-               $colon=D('breast');
-               $data=$colon->search();
+               $adipose=D('testes');
+               $data=$adipose->search();
              
                $this->assign($data);
                 //把获得的信息传递给模板使用
                 $this->assign(array(
                     '_page_btn_name' => '添加数据',
-                    '_page_title' => '乳腺RNA编辑位点信息',
+                    '_page_title' => '睾丸RNA编辑位点信息',
                     '_page_btn_link' => U('add'),
            
                 ));

@@ -141,6 +141,8 @@
         <li><a href="../Pancreas/index" target="main_frame">胰腺</a></li>
         <li><a href="../Ovary/index" target="main_frame">卵巢</a></li>
         <li><a href="../Thyroid/index" target="main_frame">甲状腺</a></li>
+        <li><a href="../Liver/index" target="main_frame">心脏</a></li>
+        <li><a href="../Muscle/index" target="main_frame">骨骼肌</a></li>
         <li class="fix-spacer">&nbsp;</li>
     </ul>
     <br class="clear" />
