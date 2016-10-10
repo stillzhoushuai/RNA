@@ -1,0 +1,2395 @@
+[ 2016-10-10T20:24:13+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.028002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-10T20:24:14+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0740s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.262015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.262015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:24:14+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:24:14+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:24:20+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Privilege/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:24:21+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0450s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0880s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:24:22+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:24:27+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:24:29+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, string given D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\cf36cfc2ebe1578307fb0cc4d3ea2ac3.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:25:53+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:35:50+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:35:50+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:35:50+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:35:51+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.1350s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.151009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.151009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:35:52+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Privilege/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:35:53+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:35:54+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:36:00+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:36:02+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:36:11+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:36:15+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:37:49+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:37:49+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:37:49+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:37:49+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:37:50+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:37:51+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:37:55+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:37:57+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:39:52+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:39:52+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:39:52+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:39:52+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:39:53+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:39:54+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:41:04+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:04+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.1380s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.168010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.168010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:41:04+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:04+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:05+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:41:06+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/layout.html): failed to open stream: No such file or directory D:\xampp\htdocs\RNA\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:08+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:11+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/layout.html): failed to open stream: No such file or directory D:\xampp\htdocs\RNA\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:13+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:41:14+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/layout.html): failed to open stream: No such file or directory D:\xampp\htdocs\RNA\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:30+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:41:31+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:43:16+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:43:19+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.149008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:43:24+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Login/chkcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:43:32+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_admin` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_admin` WHERE `username` = 'root' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:43:33+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:43:33+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:43:33+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:43:33+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:43:34+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:43:36+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:43:41+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:43:42+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:46:32+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:48:31+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:50:32+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:50:32+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:50:32+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:50:32+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:50:33+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:50:35+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:50:46+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:50:47+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:51:51+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:51:56+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:55:16+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:55:18+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:56:52+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:57:00+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `role_name` = '人体组织模块管理员' AND `id` <> '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.p39_role_pri' doesn't exist
+
+[ 2016-10-10T20:58:55+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0500s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:58:56+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:59:05+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `role_name` = '人体组织模块管理员' AND `id` <> '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 71 行.
+SQL: DELETE FROM `rna_role_pri` WHERE `role_id` = 1 [ RunTime:0.2890s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('1','1') [ RunTime:0.3290s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('2','1') [ RunTime:0.0780s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('3','1') [ RunTime:0.3700s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('4','1') [ RunTime:0.1950s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('5','1') [ RunTime:0.0570s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('6','1') [ RunTime:0.0440s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('7','1') [ RunTime:0.0550s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('8','1') [ RunTime:0.1000s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('9','1') [ RunTime:0.0770s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('39','1') [ RunTime:0.0670s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('40','1') [ RunTime:0.0550s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('41','1') [ RunTime:0.2920s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('42','1') [ RunTime:0.0850s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('43','1') [ RunTime:0.0670s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('44','1') [ RunTime:0.0550s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('45','1') [ RunTime:0.0650s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('46','1') [ RunTime:0.2180s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('47','1') [ RunTime:0.0720s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('48','1') [ RunTime:0.0770s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('49','1') [ RunTime:0.0450s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('50','1') [ RunTime:0.2330s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('51','1') [ RunTime:0.2980s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('52','1') [ RunTime:0.1020s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('53','1') [ RunTime:0.0660s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('54','1') [ RunTime:0.0620s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('55','1') [ RunTime:0.1490s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('56','1') [ RunTime:0.0990s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('57','1') [ RunTime:0.3810s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('58','1') [ RunTime:0.0400s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('59','1') [ RunTime:0.0770s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('60','1') [ RunTime:0.0460s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('61','1') [ RunTime:0.0550s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('62','1') [ RunTime:0.0450s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('63','1') [ RunTime:0.1220s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('64','1') [ RunTime:0.0650s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('65','1') [ RunTime:0.1130s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('66','1') [ RunTime:0.0770s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('67','1') [ RunTime:0.3320s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('68','1') [ RunTime:0.0550s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('69','1') [ RunTime:0.0450s ]
+SQL: INSERT INTO `rna_role_pri` (`pri_id`,`role_id`) VALUES ('70','1') [ RunTime:0.0880s ]
+SQL: UPDATE `rna_role` SET `role_name`='人体组织模块管理员' WHERE `id` = 1 [ RunTime:0.1090s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T20:59:06+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T20:59:11+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0010s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T21:02:40+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-10T21:02:40+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T21:02:40+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\RNA\Application\Runtime\Cache\Admin\b0f0b709690a72033d17719e8059053c.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T21:02:40+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T21:02:41+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T21:02:43+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0030s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T21:06:22+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T21:06:24+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `rna_role_pri` [ RunTime:0.0020s ]
+SQL: SELECT GROUP_CONCAT(pri_id) pri_id FROM `rna_role_pri` WHERE `role_id` = '2' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T21:06:36+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Privilege/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T21:08:35+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Thyroid/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_thyroid` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\ThyroidModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\ThyroidModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\ThyroidModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_thyroid` LIMIT 1   [ RunTime:1.3791s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_thyroid a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T21:08:39+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Privilege/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `rna_privilege`  [ RunTime:0.0120s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-10T21:08:42+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+NOTIC: [2048] Declaration of Admin\Model\RoleModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\xampp\htdocs\RNA\Application\Admin\Model\RoleModel.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `rna_role` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_role a LIMIT 1   [ RunTime:0.0580s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM rna_role a LEFT JOIN rna_role_pri b ON a.id=b.role_id 
+		        LEFT JOIN rna_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20   [ RunTime:0.0220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T21:08:45+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Admin/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_admin` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM rna_admin a LIMIT 1   [ RunTime:0.0320s ]
+SQL: SELECT * FROM rna_admin a GROUP BY a.id LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-10T21:11:13+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Colon/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_colon` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\ColonModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\ColonModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\ColonModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_colon` LIMIT 1   [ RunTime:0.4480s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_colon a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

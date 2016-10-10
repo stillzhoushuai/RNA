@@ -6,6 +6,7 @@ vendor("Jpgraph.jpgraph");
 vendor("Jpgraph.jpgraph_line");
 vendor("Jpgraph.jpgraph_bar");
 vendor("Jpgraph.jpgraph_error");
+vendor("Jpgraph.jpgraph_scatter");
 class BrainController extends Controller{
        
         function index(){
@@ -20,11 +21,23 @@ class BrainController extends Controller{
        function search(){
             $where =array(); //空的where条件
             $where1=array();
+            //组织类型
+            $tissue_id= I('get.tissue_id');
+            if($tissue_id){
+            	$where['tissue_id'] = array('eq',$tissue_id); //WHERE goods_name LIKE '%$gn%'
+            	if($tissue_id==3){
+            		$tissue_name="brain_Normal";
+            	}else{
+            		$tissue_name="brain_Tumor";
+            	}
+            }
+            
             //文章号
             $paper_id= I('get.paper_id');
             if($paper_id)
                 $where['paper_id'] = array('eq',$paper_id);  //WHERE goods_name LIKE '%$gn%'
                 $where1['paper_id'] = array('eq',$paper_id);  //WHERE goods_name LIKE '%$gn%'
+               
             
             //染色体号
             $chr= I('get.chr');
@@ -69,7 +82,7 @@ class BrainController extends Controller{
             //连表查询查询取出文章名称
             $data =$testModel->field('b.paper_name')
             ->alias('a')
-            ->join('LEFT JOIN __PAPER__ b ON a.paper_id=b.id')
+            ->join('LEFT JOIN __BRAINPAPER__ b ON a.paper_id=b.id')
             ->where($where1)
             ->select();
             $paper_name=$data[0];
@@ -117,43 +130,68 @@ class BrainController extends Controller{
             $datax= implode(",",$datax);
             $paper_name= implode(",",$paper_name);
 
+            /* 
+            dump($datay1);
+            dump($datay2);
+            dump($datax);
+            dump($datax_scatter);
+            dump($paper_name);
+            dump($tissue_name);die; */
             $this->assign(array(
                 'datay1' => $datay1,
                 'datay2' => $datay2,
+                'datay_scatter' => $datay_scatter,
                 'datax' => $datax,
+                'datax_scatter' => $datax_scatter,
                 'paper_name' => $paper_name,
+                'tissue_name' =>$tissue_name,
                 '_page_title'=>'Brain编辑位点分析',
-                '_page_btn_name' => 'Brain_GO',
+                '_page_btn_name1' => 'Brain_variance_GO',
+                '_page_btn_name2' => 'Brain_scatter_GO',
             ));
             $this->display();
         }
         
-        public function draw(){
+ public function draw_variance(){
             $datay1=$_GET['datay1'];
             $datay2=$_GET['datay2'];
+            $datay_scatter=$_GET['datay_scatter'];
             $datax=$_GET['datax'];
+            $datax_scatter=$_GET['datax_scatter'];
             $paper_name=$_GET['paper_name'];
+            $tissue_name=$_GET['tissue_name'];
             $datay1=explode(",",$datay1);
             $datay2=explode(",",$datay2);
+            $datay_scatter=explode(",",$datay_scatter);
             $datax=explode(",",$datax);
+            $datax_scatter=explode(",",$datax_scatter);
+//             dump($datax);die;
+            $i=0;
+            $up=array();
+            $down=array();
+            for($i=0;$i<count($datay1);$i++){
+                $up[$i]=$datay1[$i]+$datay2[$i];
+                $down[$i]=$datay1[$i]-$datay2[$i];
+            }
             // $tissue_name=explode(",",$tissue_name);  //不需要分割
             /***********************将平均值和方差合并起来*****************************/
             $error=array();
             $array=array();
             $i=0;
             $x=1;
-            foreach($datay1 as $v){
+            foreach($up as $v){
                 $error[$i]=$v;
                 $i=$i+2;
             }
-            foreach($datay2 as $v){
+            foreach($down as $v){
                 $error[$x]=$v;
                 $x=$x+2;
             }
             ksort($error);   //按照键的大小对给误差数组排序
          /*    $error=implode(",", $error);*/
-            //dump($error);die; 
-            $graph = new \Graph(1000,800,"auto");
+            
+            /******************************作图************************************/
+            $graph = new \Graph(1500,1000,"auto");
             $graph->SetScale('textlin');
             $graph->SetMargin(50,30,30,60);
             //$graph->graph_theme = null;
@@ -166,14 +204,138 @@ class BrainController extends Controller{
             $graph->yaxis->title->SetFont(FF_SIMSUN,FS_BOLD);
             $graph->yaxis->SetTitleMargin(30);
         
+            $graph1 = new \Graph(1500,1000,"auto");
+            $graph1->SetScale('lin');
+            $graph1->SetMargin(50,30,30,60);
+            //$graph->graph_theme = null;
+            $graph1->title->Set('RNA editing location rate');
+            $graph1->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph1->xaxis->SetTickLabels($datax);
+            $graph1->xaxis->title->Set('RNA location(Paper_Name:'.$paper_name.')');
+            $graph1->xaxis->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph1->yaxis->title->Set('RNA editing_rate');
+            $graph1->yaxis->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph1->yaxis->SetTitleMargin(30);
+            //画方差图
             $errplot=new \ErrorPlot($error);
-            $errplot->SetLegend("Brain's average and variance");
-            $errplot->SetColor("red");
+            $errplot->SetLegend("$tissue_name"."'s average and variance");
             $errplot->SetWeight(2);
-            $errplot->SetCenter();
+            //$errplot->SetCenter();
+            $errplot->SetColor("blue");
+
+            //利用平均值画棒图
+            $barplot=new \barPlot($datay1);
+            $barplot->SetWidth(0.6);
+            $fcol='#440000';
+            $tcol='#FF9090';
+            $barplot->SetFillGradient($fcol,$tcol,GRAD_LEFT_REFLECTION);
+            // Set line weigth to 0 so that there are no border  around each bar
+            $barplot->SetWeight(0);
+            
+            
+            //画散点图
+            $scatterplot = new \ScatterPlot($datay_scatter,$datax_scatter);
+            $scatterplot->mark->SetType(MARK_FILLEDCIRCLE);
+            $scatterplot->mark->SetFillColor("red@0.7:1.2");
+            $scatterplot->mark->SetWidth(5);
             
             $graph->Add($errplot);
+            $graph->Add($barplot);
+           // $graph->Add($scatterplot);
             $graph->stroke();
+        }
+        
+        public function draw_scatter(){
+            $datay1=$_GET['datay1'];
+            $datay2=$_GET['datay2'];
+            $datay_scatter=$_GET['datay_scatter'];
+            $datax=$_GET['datax'];
+            $datax_scatter=$_GET['datax_scatter'];
+            $paper_name=$_GET['paper_name'];
+            $tissue_name=$_GET['tissue_name'];
+            $datay1=explode(",",$datay1);
+            $datay2=explode(",",$datay2);
+            $datay_scatter=explode(",",$datay_scatter);
+            $datax=explode(",",$datax);
+            $datax_scatter=explode(",",$datax_scatter);
+            //             dump($datax);die;
+            $i=0;
+            $up=array();
+            $down=array();
+            for($i=0;$i<count($datay1);$i++){
+                $up[$i]=$datay1[$i]+$datay2[$i];
+                $down[$i]=$datay1[$i]-$datay2[$i];
+            }
+            // $tissue_name=explode(",",$tissue_name);  //不需要分割
+            /***********************将平均值和方差合并起来*****************************/
+            $error=array();
+            $array=array();
+            $i=0;
+            $x=1;
+            foreach($up as $v){
+                $error[$i]=$v;
+                $i=$i+2;
+            }
+            foreach($down as $v){
+                $error[$x]=$v;
+                $x=$x+2;
+            }
+            ksort($error);   //按照键的大小对给误差数组排序
+            /*    $error=implode(",", $error);*/
+        
+            /******************************作图************************************/
+            $graph = new \Graph(1500,1000,"auto");
+            $graph->SetScale('textlin');
+            $graph->SetMargin(50,30,30,60);
+            //$graph->graph_theme = null;
+            $graph->title->Set('RNA editing location rate');
+            $graph->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph->xaxis->SetTickLabels($datax);
+            $graph->xaxis->title->Set('RNA location(Paper_Name:'.$paper_name.')');
+            $graph->xaxis->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph->yaxis->title->Set('RNA editing_rate');
+            $graph->yaxis->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph->yaxis->SetTitleMargin(30);
+        
+            $graph1 = new \Graph(1500,1000,"auto");
+            $graph1->SetScale('lin');
+            $graph1->SetMargin(50,30,30,60);
+            //$graph->graph_theme = null;
+            $graph1->title->Set('RNA editing location rate');
+            $graph1->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph1->xaxis->SetTickLabels($datax);
+            $graph1->xaxis->title->Set('RNA location(Paper_Name:'.$paper_name.')');
+            $graph1->xaxis->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph1->yaxis->title->Set('RNA editing_rate');
+            $graph1->yaxis->title->SetFont(FF_SIMSUN,FS_BOLD);
+            $graph1->yaxis->SetTitleMargin(30);
+            //画方差图
+            $errplot=new \ErrorPlot($error);
+            $errplot->SetLegend("$tissue_name"."'s average and variance");
+            $errplot->SetWeight(2);
+            //$errplot->SetCenter();
+            $errplot->SetColor("blue");
+        
+            //利用平均值画棒图
+            $barplot=new \barPlot($datay1);
+            $barplot->SetWidth(0.6);
+            $fcol='#440000';
+            $tcol='#FF9090';
+            $barplot->SetFillGradient($fcol,$tcol,GRAD_LEFT_REFLECTION);
+            // Set line weigth to 0 so that there are no border  around each bar
+            $barplot->SetWeight(0);
+        
+        
+            //画散点图
+            $scatterplot = new \ScatterPlot($datay_scatter,$datax_scatter);
+            $scatterplot->mark->SetType(MARK_FILLEDCIRCLE);
+            $scatterplot->mark->SetFillColor("red@0.7:1.2");
+            $scatterplot->mark->SetWidth(5);
+        
+            $graph->Add($errplot);
+            $graph->Add($barplot);
+            $graph1->Add($scatterplot);
+            $graph1->stroke();
         }
         
  
@@ -185,7 +347,8 @@ class BrainController extends Controller{
             $datay1=explode(",",$datay1);
             $datay2=explode(",",$datay2);
             $datax=explode(",",$datax);
- 
+          
+           
           // $tissue_name=explode(",",$tissue_name);  //不需要分割
           /***********************将平均值和方差合并起来*****************************/
            $error=array();
@@ -223,6 +386,4 @@ class BrainController extends Controller{
             $graph->Add($accbar);
             $graph->stroke();    
         }
-        
-        
 }

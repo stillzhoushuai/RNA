@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>
-    <span class="action-span1"><a href="#">ECSHOP 管理中心</a> </span>
+    <span class="action-span1"><a href="#">人体组织RNA编辑 管理中心</a> </span>
     <span id="search_id" class="action-span1"></span>
     <div style="clear:both"></div>
 </h1>
@@ -82,13 +82,13 @@
         </tr>
         <tr>
             <td width="20%">服务器操作系统:</td>
-            <td width="30%">WINNT (127.0.0.1)</td>
+            <td width="30%"><?php echo $_SERVER['SERVER_NAME']; ?></td>
             <td width="20%">Web 服务器:</td>
             <td width="30%">Apache/2.2.22 (Win32) PHP/5.3.8</td>
         </tr>
         <tr>
             <td>PHP 版本:</td>
-            <td>5.3.8</td>
+            <td><?php echo $_SERVER; ?></td>
             <td>MySQL 版本:</td>
             <td>5.5.24</td>
         </tr>

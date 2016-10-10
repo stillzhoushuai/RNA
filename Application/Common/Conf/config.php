@@ -2,7 +2,7 @@
 return array(
 	//'配置项'=>'配置值'
     //页面底部追踪信息显示
-    'SHOW_PAGE_TRACE' =>  TRUE,
+    //'SHOW_PAGE_TRACE' =>  TRUE,
     
 	//数据库配置信息
 	'DB_TYPE'   => 'mysqli', // 数据库类型 mysql,mysqli,pdo

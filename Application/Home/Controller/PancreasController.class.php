@@ -69,7 +69,7 @@ class PancreasController extends Controller{
             //连表查询查询取出文章名称
             $data =$testModel->field('b.paper_name')
             ->alias('a')
-            ->join('LEFT JOIN __PAPER__ b ON a.paper_id=b.id')
+            ->join('LEFT JOIN __PANCREASPAPER__ b ON a.paper_id=b.id')
             ->where($where1)
             ->select();
             $paper_name=$data[0];

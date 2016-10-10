@@ -31,7 +31,7 @@
 	</p>
     <p>
 			文章名称：
-			<?php buildSelect('Paper','paper_id','id','paper_name'); ?>
+			<?php buildSelect('Testespaper','paper_id','id','paper_name'); ?>
 	</p>
 	<p>
 			染色体号：

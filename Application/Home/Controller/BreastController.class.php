@@ -25,10 +25,10 @@ class BreastController extends Controller{
             $tissue_id= I('get.tissue_id');
             if($tissue_id){
                 $where['tissue_id'] = array('eq',$tissue_id); //WHERE goods_name LIKE '%$gn%'
-                if($tissue_id==6){
-                    $tissue_name="Colon_Normal";
+                if($tissue_id==5){
+                    $tissue_name="breast_Normal";
                 }else{
-                    $tissue_name="Colon_Tumor";
+                    $tissue_name="breast_Tumor";
                 }     
             }
             //文章号
@@ -80,7 +80,7 @@ class BreastController extends Controller{
             //连表查询查询取出文章名称
             $data =$testModel->field('b.paper_name')
             ->alias('a')
-            ->join('LEFT JOIN __PAPER__ b ON a.paper_id=b.id')
+            ->join('LEFT JOIN __BREASTPAPER__ b ON a.paper_id=b.id')
             ->where($where1)
             ->select();
             $paper_name=$data[0];

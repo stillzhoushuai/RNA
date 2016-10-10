@@ -17,21 +17,20 @@
 
 <!-- 内容 -->
 
-
-
 <div class="form-div">
-    <form action="search" method="GET" name="searchForm">
+    <form action="/RNA/index.php/Home/Brain/search?tissue_id=3&paper_id=&chr=17&rna_editing_location=&fl=4931018&tl=4931019&fr=&tr=" method="POST" name="searchForm">
     <p>
 			组织类型：
 			<select name="tissue_id">
                     	<option value="">请选择:</option>
-                    	<option value="1">thyroid_Normal</option>
-                    	<option value="2">thyroid_Tumor</option>
+                    	<option value="3">brain_Normal</option>
+                    	<option value="4">brain_Tumor</option>
             </select>
 	</p>
     <p>
 			文章名称：
-			<?php buildSelect('Thyroidpaper','paper_id','id','paper_name'); ?>
+			<?php buildSelect('Brainpaper','paper_id','id','paper_name'); ?>
+			
 	</p>
 	<p>
 			染色体号：
@@ -82,6 +81,8 @@ div  a:hover {
   text-decoration:none;
 }
 </style>
+
+
 
 <div id="footer">
 共执行 7 个查询，用时 0.028849 秒，Gzip 已禁用，内存占用 3.219 MB<br />

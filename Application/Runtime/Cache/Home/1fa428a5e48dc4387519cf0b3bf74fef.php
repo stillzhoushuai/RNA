@@ -18,18 +18,18 @@
 <!-- 内容 -->
 
 <div class="form-div">
-    <form action="/RNA/index.php/Home/Colon/search?tissue_id=6&paper_id=&chr=17&rna_editing_location=17233359&fl=&tl=&fr=&tr=" method="POST" name="searchForm">
+    <form action="/RNA/index.php/Home/Colon/search?tissue_id=1&paper_id=&chr=17&rna_editing_location=&fl=4931018&tl=4932000&fr=&tr=" method="POST" name="searchForm">
     <p>
 			组织类型：
 			<select name="tissue_id">
                     	<option value="">请选择:</option>
-                    	<option value="6">colon_Normal</option>
-                    	<option value="7">colon_Tumor</option>
+                    	<option value="1">colon_Normal</option>
+                    	<option value="2">colon_Tumor</option>
             </select>
 	</p>
     <p>
 			文章名称：
-			<?php buildSelect('Paper','paper_id','id','paper_name'); ?>
+			<?php buildSelect('Colonpaper','paper_id','id','paper_name'); ?>
 			
 	</p>
 	<p>

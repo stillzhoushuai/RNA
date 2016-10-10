@@ -90,7 +90,7 @@ class PancreasController extends BaseController{
 	//商品列表页
 	public function lst(){
 		      //数据查询操作
-               $brain=D('brain');
+               $brain=D('pancreas');
                $data=$brain->search();
              
                $this->assign($data);

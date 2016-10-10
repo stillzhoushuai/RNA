@@ -211,3 +211,241 @@ ERR: 非法操作:__GROUP__
 [ 2016-10-09T14:18:11+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Order/orderList
 ERR: 非法操作:__GROUP__
 
+[ 2016-10-09T14:26:21+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:26:22+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:26:23+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Order/orderList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:26:23+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Comment/commentList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:26:24+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/User/userList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:26:24+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Comment/commentList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:26:24+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Order/orderList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:26:25+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:29:15+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:29:31+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:29:34+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Index/__GROUP__/Goods/goodsList
+ERR: 非法操作:__GROUP__
+
+[ 2016-10-09T14:32:19+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Role/edit/id/1.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rna_editing.p39_role_pri' doesn't exist
+
+[ 2016-10-09T21:14:39+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Colon/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_colon` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\ColonModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\ColonModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\ColonModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_colon` LIMIT 1   [ RunTime:0.1860s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_colon a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-09T21:14:39+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Pancreas/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_pancreas` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\PancreasModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\PancreasModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\PancreasModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_pancreas` LIMIT 1   [ RunTime:0.0470s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_pancreas a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-09T21:14:40+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Breast/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_breast` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\BreastModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\BreastModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\BreastModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_breast` LIMIT 1   [ RunTime:0.1520s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_breast a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-09T21:14:42+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Brain/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `rna_brain` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\BrainModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\BrainModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\BrainModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_brain` LIMIT 1   [ RunTime:1.3971s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_brain a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-09T21:14:44+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Brain/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_brain` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\BrainModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\BrainModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\BrainModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_brain` LIMIT 1   [ RunTime:1.9341s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_brain a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-09T21:14:45+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Kidney/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `rna_privilege` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `rna_kidney` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\KidneyModel.class.php 第 61 行.
+NOTIC: [8] Undefined variable: fa D:\xampp\htdocs\RNA\Application\Admin\Model\KidneyModel.class.php 第 63 行.
+NOTIC: [8] Undefined variable: ta D:\xampp\htdocs\RNA\Application\Admin\Model\KidneyModel.class.php 第 65 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `rna_kidney` LIMIT 1   [ RunTime:0.8270s ]
+SQL: SELECT a.*,b.tissue_name FROM rna_kidney a LEFT JOIN rna_tissue b ON a.tissue_id=b.id  LIMIT 0,20   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-09T23:19:04+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `rna_admin` [ RunTime:0.0130s ]
+
+[ 2016-10-09T23:19:04+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-09T23:19:04+08:00 ] 127.0.0.1 /RNA/index.php/Admin/Login/chkcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

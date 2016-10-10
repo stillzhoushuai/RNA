@@ -25,10 +25,10 @@ class ColonController extends Controller{
             $tissue_id= I('get.tissue_id');
             if($tissue_id){
                 $where['tissue_id'] = array('eq',$tissue_id); //WHERE goods_name LIKE '%$gn%'
-                if($tissue_id==6){
-                    $tissue_name="Colon_Normal";
+                if($tissue_id==1){
+                    $tissue_name="colon_Normal";
                 }else{
-                    $tissue_name="Colon_Tumor";
+                    $tissue_name="colon_Tumor";
                 }     
             }
             //文章号
@@ -77,23 +77,25 @@ class ColonController extends Controller{
             }
             $testModel = M('colon');
             $paper_name=array();
-            //连表查询查询取出文章名称
+            //连表查询查询取出文章名称__COLONPAPER__
             $data =$testModel->field('b.paper_name')
             ->alias('a')
-            ->join('LEFT JOIN __PAPER__ b ON a.paper_id=b.id')
+            ->join('LEFT JOIN __COLONPAPER__ b ON a.paper_id=b.id')
             ->where($where1)
             ->select();
+           
             $paper_name=$data[0];
             //取出所有的组织分类信息
             $testData = $testModel ->where($where)-> select();
+            //dump($testData);die;
             $datax_scatter=array();
             $datay_scatter=array();
             foreach($testData as $k=>$v) {
                 array_push($datax_scatter,$v['rna_editing_location']);
                 array_push($datay_scatter,$v['reads_editing_rate']);
             }
-         /*    dump($datax_scatter);
-            dump($datay_scatter);die; */
+         /* dump($datax_scatter);
+            dump($datay_scatter);die;  */
             foreach($testData as $k=>$v) {
                 $result[$v["rna_editing_location"]][] = $v; // 将二维数组按照自己想要的关键字平成$k然后组成新的三维数组。
             }
@@ -137,7 +139,13 @@ class ColonController extends Controller{
             $datax= implode(",",$datax);
             $datax_scatter= implode(",",$datax_scatter);
             $paper_name= implode(",",$paper_name);
-
+			/* 
+            dump($datay1);
+            dump($datay2);
+            dump($datax);
+            dump($datax_scatter);
+            dump($paper_name);
+            dump($tissue_name);die; */
             $this->assign(array(
                 'datay1' => $datay1,
                 'datay2' => $datay2,

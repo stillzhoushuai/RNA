@@ -31,7 +31,7 @@
         </p>
     </div>
     <div id="tabbody-div">
-        <form enctype="multipart/form-data" action="/RNA/index.php/Admin/Brain/edit/id/12711.html" method="post">
+        <form enctype="multipart/form-data" action="/RNA/index.php/Admin/Brain/edit/id/1.html" method="post">
         <input type="hidden" name="id" value="<?php echo $data['id']; ?>" />
         	<!-- 基本信息 -->
             <table width="90%" class="tab_table" align="center">

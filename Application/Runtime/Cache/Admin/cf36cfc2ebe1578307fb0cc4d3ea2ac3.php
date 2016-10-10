@@ -5,6 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="/RNA/Public/Admin/Styles/general.css" rel="stylesheet" type="text/css" />
 <link href="/RNA/Public/Admin/Styles/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/RNA/Public/umeditor1_2_2-utf8-php/third-party/jquery.min.js"></script>
 </head>
 <body>
 <h1>
@@ -18,7 +19,7 @@
 
 
 <div class="main-div">
-    <form name="main_form" method="POST" action="/RNA/index.php/Admin/Role/edit/id/1.html" enctype="multipart/form-data" >
+    <form name="main_form" method="POST" action="/RNA/index.php/Admin/Role/edit/id/2.html" enctype="multipart/form-data" >
     	<input type="hidden" name="id" value="<?php echo $data['id']; ?>" />
         <table cellspacing="1" cellpadding="3" width="100%">
             <tr>
@@ -27,12 +28,12 @@
                     <input  type="text" name="role_name" value="<?php echo $data['role_name']; ?>" />
                 </td>
             </tr>
-             <tr>
+            <tr>
                 <td class="label">权限列表：</td>
                 <td>	
-                	<?php foreach ($priData as $k => $v): if(in_array($rpData,$v['id'])) $check = 'checked'; else $check = ''; ?>
+                	<?php foreach ($priData as $k => $v): if(strpos(','.$rpData.',', ','.$v['id'].',') !== FALSE) $check = 'checked="checked"'; else $check = ''; ?>
                 		<?php echo str_repeat('-', 8*$v['level']); ?>
-                    	<input  checked="<?php echo $check; ?>" level_id="<?php echo $v['level']; ?>"  type="checkbox" name="pri_id[]" value="<?php echo $v['id']; ?>" />
+                    	<input <?php echo $check; ?> level_id="<?php echo $v['level']; ?>" type="checkbox" name="pri_id[]" value="<?php echo $v['id']; ?>" />
                     	<?php echo $v['pri_name']; ?><br />
                     <?php endforeach; ?>
                 </td>
@@ -50,32 +51,33 @@
 <script>
 // 为所有的复选框绑定一个点击事件
 $(":checkbox").click(function(){
-	//先获取点击的这个level_id
-	var temp_level_id=level_id = $(this).attr("level_id");
-	//判断是选中还是取消
+	// 先获取点击的这个level_id
+	var tmp_level_id = level_id = $(this).attr("level_id");
+	// 判断是选中还是取消
 	if($(this).prop("checked"))
 	{
-		//所有的子权限也被选中
+		// 所有的子权限也选中
 		$(this).nextAll(":checkbox").each(function(k,v){
 			if($(v).attr("level_id") > level_id)
-				$(v).attr("checked", "checked");	
+				$(v).prop("checked", "checked");
 			else
 				return false;
 		});
-		
-		//所有的上级权限也被选中
+		// 所有的上级权限也选中
 		$(this).prevAll(":checkbox").each(function(k,v){
-			if($(v).attr("level_id") < temp_level_id){
-				$(v).attr("checked", "checked");
-			    temp_level_id--;   //再找更上一级的
+			if($(v).attr("level_id") < tmp_level_id)
+			{
+				$(v).prop("checked", "checked");
+				tmp_level_id--; // 再找更上一级的
 			}
-			
 		});
-	}else{
-		//所有的子权限也取消
+	}
+	else
+	{
+		// 所有的子权限也取消
 		$(this).nextAll(":checkbox").each(function(k,v){
 			if($(v).attr("level_id") > level_id)
-				$(v).removeAttr("checked");	
+				$(v).removeAttr("checked");
 			else
 				return false;
 		});

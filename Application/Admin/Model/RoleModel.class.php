@@ -57,7 +57,7 @@ class RoleModel extends Model
 	    $rpModle = D('role_pri');
 	    $where=array();
 	    $where['role_id']= array('eq',$option['where']['id']);
-	    $this->table('p39_role_pri')->where($where)->delete();
+	    $this->table('rna_role_pri')->where($where)->delete();
 	    foreach ($priId as $v){
 	        $rpModle-> add(array(
 	            'pri_id' =>$v,
